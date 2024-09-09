@@ -1,25 +1,25 @@
-# Contributor: Slash <demodevil5[at]yahoo[dot]com>
+# Maintainer: Slash <demodevil5[at]yahoo[dot]com>
 
 pkgname=quake3-defrag-maps
 pkgver=20091031
 pkgrel=2
 pkgdesc='Map packs for the DeFRaG Quake3 modification.'
 url='https://q3df.org/'
-license=('GPL')
+license=('unknown')
 arch=('any')
 depends=('quake3-defrag')
 makedepends=('unzip')
-source=('http://slashbunny.com/aur/quake3-defrag-maps/defragpak1.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak2.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak3.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak4.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak5.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragcpmpak01.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak7.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak8.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak9.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak10.zip' \
-        'http://slashbunny.com/aur/quake3-defrag-maps/defragpak11.zip')
+source=('https://aur.slashbunny.com/quake3-defrag-maps/defragpak1.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak2.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak3.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak4.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak5.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragcpmpak01.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak7.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak8.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak9.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak10.zip' \
+        'https://aur.slashbunny.com/quake3-defrag-maps/defragpak11.zip')
 noextract=('defragpak1.zip' 'defragpak2.zip' 'defragpak3.zip' \
            'defragpak4.zip' 'defragpak5.zip' 'defragcpmpak01.zip' \
            'defragpak7.zip' 'defragpak8.zip' 'defragpak9.zip' \
